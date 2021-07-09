@@ -1,0 +1,16 @@
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.exe
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.deps.json
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.runtimeconfig.json
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.runtimeconfig.dev.json
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.dll
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\ref\VideoToCutscene.dll
+C:\Users\Owens\source\repos\VideoToCutscene\bin\Debug\net5.0\VideoToCutscene.pdb
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.csprojAssemblyReference.cache
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.AssemblyInfoInputs.cache
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.AssemblyInfo.cs
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.csproj.CoreCompileInputs.cache
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.dll
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\ref\VideoToCutscene.dll
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.pdb
+C:\Users\Owens\source\repos\VideoToCutscene\obj\Debug\net5.0\VideoToCutscene.genruntimeconfig.cache
